@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Jiahao Chen.
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/yingjie-xu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/yingjie-xu-0619/)  
+
+- 🌱 I’m currently studying Software Engineering at [McGill University](https://mcgill.ca)  
+- 📫 How to reach me: send me an email at jiahao.chen.0011 # gmail.com
+- 👉 [My website](https://jiahao-chen.web.app/)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahao-c&show_icons=true)  ](https://github.com/jiahao-c/)
+
 <!--
 **jiahao-c/jiahao-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
