@@ -6,6 +6,7 @@
   <img align="left" alt="Zenghao Gao" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <br/>
+
 - 🌱 I’m currently studying Software Engineering at [McGill University](https://mcgill.ca)  
 - 📫 How to reach me: send me an email at jiahao.chen.0011 # gmail.com
 - 👉 [My website](https://jiahao-chen.web.app/)
