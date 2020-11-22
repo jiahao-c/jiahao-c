@@ -1,7 +1,8 @@
-### Hi there 👋 I'm Jiahao Chen.
+## Hi there 👋 I'm Jiahao Chen.
 <a href="https://twitter.com/gaozenghao">
   <img align="left" alt="gaozenghao | Twitter" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111502.svg" />
 </a>
+
 <a href="https://www.linkedin.com/in/jiahao-c">
   <img align="left" alt="Zenghao Gao" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
