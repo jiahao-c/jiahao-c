@@ -1,9 +1,11 @@
 ### Hi there 👋 I'm Jiahao Chen.
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>](https://github.com/jiahao-c/) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/jiahao-chen-0011/)  
-
+<a href="https://twitter.com/gaozenghao">
+  <img align="left" alt="gaozenghao | Twitter" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111502.svg" />
+</a>
+<a href="https://www.linkedin.com/in/jiahao-c">
+  <img align="left" alt="Zenghao Gao" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<br/>
 - 🌱 I’m currently studying Software Engineering at [McGill University](https://mcgill.ca)  
 - 📫 How to reach me: send me an email at jiahao.chen.0011 # gmail.com
 - 👉 [My website](https://jiahao-chen.web.app/)
