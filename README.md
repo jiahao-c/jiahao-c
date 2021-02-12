@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently studying Software Engineering at [McGill University](https://mcgill.ca)  
 - 📫 How to reach me: send me an email at jiahao.chen.0011 # gmail.com
-- 👉 [My website](https://jiahao-chen.web.app/)
+- 👉 [My website](https://jiahao-chen.web.app/)  (Archived)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahao-c&show_icons=true)  ](https://github.com/jiahao-c/)
 
