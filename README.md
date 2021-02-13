@@ -1,30 +1,28 @@
-## Hi there 👋 I'm Jiahao Chen.
-<a href="https://twitter.com/gaozenghao">
-  <img align="left" alt="gaozenghao | Twitter" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111502.svg" />
-</a>
+## Hi there 👋 I'm Jiahao.
 
-<a href="https://www.linkedin.com/in/jiahao-c">
-  <img align="left" alt="Zenghao Gao" width="20px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
+<p align="left">
+<a href="https://linkedin.com/in/jiahao-c"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://jiahao-c.medium.com"><img src="https://img.shields.io/badge/-Medium-orange?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 <br/>
+  
+<p align="left">🌱 Currently studying Software Engineering at [McGill University](https://mcgill.ca) </p>
+  
+<p align="left">📫 How to reach me: send me an email at jiahao.chen.0011 # gmail.com</p>
 
-- 🌱 I’m currently studying Software Engineering at [McGill University](https://mcgill.ca)  
-- 📫 How to reach me: send me an email at jiahao.chen.0011 # gmail.com
-- 👉 [My website](https://jiahao-chen.web.app/)  (Archived)
+<p align="left">👉 [My website](https://jiahao-chen.web.app/)  (Archived) </p>
+
+</p>
+
+
+### Tools 
+ 
+<p align="left">
+  <img src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=javascript&logoColor=white%22"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bash%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vscode-blue.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahao-c&show_icons=true)  ](https://github.com/jiahao-c/)
 
-<!--
-**jiahao-c/jiahao-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
