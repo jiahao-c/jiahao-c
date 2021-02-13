@@ -5,11 +5,11 @@
   <a href="https://jiahao-c.medium.com"><img src="https://img.shields.io/badge/-Medium-orange?&style=for-the-badge&logo=medium&logoColor=white"/></a>
 <br/>
   
-<p align="left">🌱 Currently studying Software Engineering at [McGill University](https://mcgill.ca) </p>
+- 🌱 Currently studying Software Engineering at [McGill University](https://mcgill.ca)
   
-<p align="left">📫 How to reach me: send me an email at jiahao.chen.0011 # gmail.com</p>
+- 📫 How to reach me: send me an email at jiahao.chen # mail.mcgill.ca
 
-<p align="left">👉 [My website](https://jiahao-chen.web.app/)  (Archived) </p>
+- 👉 [My website](https://jiahao-chen.web.app/)  (Archived)
 
 </p>
 
