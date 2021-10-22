@@ -24,5 +24,6 @@
   <img src="https://img.shields.io/badge/vscode-blue.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jiahao-c&show_icons=true)  ](https://github.com/jiahao-c/)
+![](https://github.com/jiahao-c/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jiahao-c/github-stats/blob/master/generated/languages.svg)
 
