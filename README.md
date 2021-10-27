@@ -6,8 +6,6 @@
 <br/>
   
 - 🌱 Currently studying Software Engineering at [McGill University](https://mcgill.ca)
-  
-- 📫 How to reach me: send me an email at jiahao.chen ## mail.mcgill.ca
 
 - 👉 [My website](https://jiahao-chen.web.app/)  (Archived)
 
